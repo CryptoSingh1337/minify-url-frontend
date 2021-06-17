@@ -115,6 +115,11 @@ nav {
     width: 95%;
   }
 
+  .input {
+    width: 95%;
+    margin: 5% auto;
+  }
+
   #copy-box {
     width: 35px;
     height: 35px;
@@ -126,6 +131,11 @@ nav {
 @media (min-width: 500px) and (max-width: 1000px) {
   .card {
     width: 70%;
+  }
+
+  .input {
+    width: 80%;
+    margin: 5% auto;
   }
 
   #copy-box {
